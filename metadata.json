@@ -1,0 +1,9 @@
+{
+  "name": "Venzgo Super-App",
+  "description": "A premium ride-hailing and multi-service super-app including hotels, flights, car rentals, and food delivery.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
